@@ -12,8 +12,8 @@ class MinMaxDate extends StatelessWidget {
           body: SafeArea(
             child: SfCalendar(
               view: CalendarView.month,
-              minDate: DateTime(2020, 6, 5, 9, 0, 0),
-              maxDate: DateTime(2020, 6, 28, 9, 0, 0),
+              minDate: DateTime(2020, 10, 10, 9, 0, 0),
+              maxDate: DateTime(2021, 03, 25, 9, 0, 0),
             ),
             // This trailing comma makes auto-formatting nicer for build methods.
           ),
