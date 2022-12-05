@@ -1,4 +1,4 @@
-package com.example.minmaxdate_picker
+package com.example.restrict_visibledate_range
 
 import io.flutter.embedding.android.FlutterActivity
 
