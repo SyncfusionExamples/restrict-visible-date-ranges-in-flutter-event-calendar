@@ -6,6 +6,8 @@ You can restrict the visible date ranges in the Flutter Event Calendar by using 
 
 When the minDate and maxDate are set to the calendar, you cannot swipe the control using touch gesture beyond those dates.
 
+![RestrictNavigation](https://user-images.githubusercontent.com/46158936/206462413-e52f92d1-e0cb-46e5-875e-6b035e48549e.gif)
+
 For more details, Refer to our UG documentation [Restrict Date Naviagtion](https://help.syncfusion.com/flutter/calendar/date-navigations#range-for-visible-dates).
 
 ## Requirements to run the demo
